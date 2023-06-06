@@ -1,2 +1,2 @@
 # repo-setup
-PRactice for setting up a group project on Github
+Practice for setting up a group project on Github
